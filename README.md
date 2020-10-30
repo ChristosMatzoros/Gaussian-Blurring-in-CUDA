@@ -8,3 +8,5 @@ method (internal tiling of the image) in order to make use of shared memory. I c
 invocations(external tiling) in order to implement the algorithm in much larger 
 image sizes. I made use of CUDA streams in order to perform multiple CUDA operations simultaneously. 
 The evaluation was made with the nvvp profiler.
+
+Christos Matzoros  www.linkedin.com/in/matzoros-christos
